@@ -1,7 +1,7 @@
 {
     "name": "app",
     "short_name": "app",
-    "start_url": "cargo.github.io",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
